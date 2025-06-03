@@ -44,4 +44,3 @@ The **DVLD Management System** is a comprehensive desktop application built to m
 - **Architecture:** 3-tier architecture
 - **Deployment:** Standalone desktop application
 
-- 📺 **Demo Video:** [Watch on YouTube](https://youtu.be/QPifskL33zQ)
